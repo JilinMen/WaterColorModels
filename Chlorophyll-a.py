@@ -93,7 +93,7 @@ def chl_Tassan(Rrs_412, Rrs_443, Rrs_490, Rrs_555):
     
     return chla
 
-def chl_Tang(Rrs_412, Rrs_443, Rrs_510, Rrs_555):
+def ratio(Rrs_412, Rrs_443, Rrs_510, Rrs_555):
     """
     Tang algorithm for estimating chlorophyll-a concentration (Tang et al., 2004)
     Tang, J., Wang, X., Song, Q., Li, T., Chen, J., Huang, H., Ren, J., 2004. The statistic
